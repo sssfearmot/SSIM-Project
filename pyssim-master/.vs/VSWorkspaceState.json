@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\env",
+    "\\env\\Lib",
+    "\\env\\Lib\\site-packages",
+    "\\env\\Lib\\site-packages\\pip",
+    "\\env\\Lib\\site-packages\\pip\\_vendor",
+    "\\env\\Lib\\site-packages\\pip\\_vendor\\html5lib",
+    "\\env\\Lib\\site-packages\\pkg_resources",
+    "\\env\\Lib\\site-packages\\pkg_resources\\extern",
+    "\\env\\Lib\\site-packages\\pkg_resources\\_vendor",
+    "\\env\\Lib\\site-packages\\pkg_resources\\__pycache__"
+  ],
+  "SelectedNode": "\\env\\Lib\\site-packages\\pip\\_internal\\index\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}

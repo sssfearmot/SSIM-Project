@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-AutoEncoder-SSIM-for-unsupervised-anomaly-detection--master",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-AutoEncoder-SSIM-for-unsupervised-anomaly-detection--master",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
