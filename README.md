@@ -1,4 +1,5 @@
 # Project collection using SSIM
+
 Project collection using SSIM
 
 AutoEncoder with SSIM loss
