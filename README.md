@@ -1,4 +1,5 @@
 # Project collection using SSIM
+Project collection using SSIM
 
 AutoEncoder with SSIM loss
 - This is a third party implementation of the paper Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders.
